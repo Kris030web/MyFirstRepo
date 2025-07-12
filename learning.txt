@@ -1,0 +1,5 @@
+What I have learned from this course
+
+How to effectively use Git and GitHub for version control. 
+I now understand how to create repositories, clone them, make commits, and push changes to remote repositories. 
+This will help me collaborate on projects more efficiently and keep track of changes.
